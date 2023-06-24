@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Jun 24 00:30:35 2023
+# Process ID: 29612
+# Current directory: C:/Users/water/Documents/github/BasicVerilogTutorial/BasicTutorial.runs/impl_1
+# Command line: vivado.exe -log main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source main.tcl -notrace
+# Log file: C:/Users/water/Documents/github/BasicVerilogTutorial/BasicTutorial.runs/impl_1/main.vdi
+# Journal file: C:/Users/water/Documents/github/BasicVerilogTutorial/BasicTutorial.runs/impl_1\vivado.jou
+# Running On: DESKTOP-J6T2GCH, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 34222 MB
+#-----------------------------------------------------------
+source main.tcl -notrace

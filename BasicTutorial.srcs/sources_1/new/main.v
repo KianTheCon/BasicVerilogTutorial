@@ -27,7 +27,7 @@ module main(
 		output reg LED3,
 		output reg LED4
     );
-    reg [3:0] countA;
+    reg [30:0] countA;
     reg [3:0] countB;
     initial begin
     	countA = 0;
@@ -38,7 +38,7 @@ module main(
     	LED4 = 0;
     end
     always @ (posedge clk) begin
-    	if(countA == 10) begin
+    	if(countA == 100000000) begin
         	countB = countB + 1;
     		if(countB == 4) begin
     			countB = 0;
